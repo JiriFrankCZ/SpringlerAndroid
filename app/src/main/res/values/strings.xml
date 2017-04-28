@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpringlerAndroid</string>
+    <string name="appwidget_text">Springler</string>
+    <string name="add_widget">Add widget</string>
+</resources>
